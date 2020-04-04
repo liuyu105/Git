@@ -12,7 +12,7 @@
 
 1.查看配置 git config -l
 
-![1585969783143](C:\Users\梦晨涌京\AppData\Roaming\Typora\typora-user-images\1585969783143.png)
+![image](https://github.com/liuyu105/Git/blob/master/images/1585969783143.png)
 
 2.设置用户名和邮箱
 
@@ -124,7 +124,7 @@ $ git config --global user.email 947892227@qq.com   #邮箱
 
 4.**git reflog**用来记录你的每一次命令 ,当找不到其版本号时，可以通过这种方式查找。
 
-![1582271456168](C:\Users\梦晨涌京\AppData\Roaming\Typora\typora-user-images\1582271456168.png)
+![image](https://github.com/liuyu105/Git/blob/master/images/1582271456168.png)
 
 5.cat readme.txt  查看文件的内容
 
@@ -150,13 +150,13 @@ $ git config --global user.email 947892227@qq.com   #邮箱
 
 ## 删除文件
 
-![1585911717806](C:\Users\梦晨涌京\AppData\Roaming\Typora\typora-user-images\1585911717806.png)
+![image](https://github.com/liuyu105/Git/blob/master/images/1585911717806.png)
 
 rm test.txt
 
 只要没有commit之前，若想在版本库中恢复此文件，只需要checkout就可。
 
-![1585911947025](C:\Users\梦晨涌京\AppData\Roaming\Typora\typora-user-images\1585911947025.png)
+![image](https://github.com/liuyu105/Git/blob/master/images/1585911947025.png)
 
 ## 远程仓库
 
@@ -170,7 +170,7 @@ rm test.txt
 
  第三步：git config –global 参数，有了这个参数，表示你这台机器上所有的Git仓库都会使用这个配置，当然你也可以对某个仓库指定的不同的用户名和邮箱。 
 
-![1585912221716](C:\Users\梦晨涌京\AppData\Roaming\Typora\typora-user-images\1585912221716.png)
+![image](https://github.com/liuyu105/Git/blob/master/images/1585912221716.png)
 
 
 
