@@ -79,7 +79,7 @@ $ git config --global user.email 947892227@qq.com   #邮箱
 
 :wq 保存并退出
 
-![vi-vim-cheat-sheet-sch](F:\liuyu\知识\java\Java基础\vi-vim-cheat-sheet-sch.gif)
+![image](https://github.com/liuyu105/Git/blob/master/images/vi-vim-cheat-sheet-sch.gif)
 
 ## 查看仓库状态
 
