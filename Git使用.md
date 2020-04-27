@@ -12,7 +12,7 @@
 
 1.查看配置 git config -l
 
-![1585969783143](https://github.com/liuyu105/Git/blob/master/images/1585969783143.png)
+![image](https://github.com/liuyu105/Git/blob/master/images/1585969783143.png)
 
 2.设置用户名和邮箱
 
